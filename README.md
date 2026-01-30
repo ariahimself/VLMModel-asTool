@@ -168,7 +168,7 @@ Ideas:
 - Replace the character tokenizer with a subword tokenizer (more flexible language)
 - Replace MNIST with EMNIST or a custom sketch dataset
 
----
+<!-- --- -->
 
-## License
-Choose any license you like (MIT is common). Add a `LICENSE` file if publishing publicly.
+<!-- ## License
+Choose any license you like (MIT is common). Add a `LICENSE` file if publishing publicly. -->
